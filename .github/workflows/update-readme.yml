@@ -1,4 +1,4 @@
-name: Update README Stats
+name: Update README
 
 on:
   push:
@@ -20,15 +20,16 @@ jobs:
         with:
           node-version: 20
 
-      - run: node update-readme.js
+      - name: Update README
+        run: node update-readme.js
 
       - name: Commit README
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
+          git config --global user.name github-actions
+          git config --global user.email github-actions@github.com
 
           git add README.md
 
-          git diff --cached --quiet || git commit -m "Update README dashboard"
+          git diff --cached --quiet || git commit -m "Update README Dashboard"
 
           git push
