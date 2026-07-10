@@ -107,16 +107,33 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!-- STATS_START -->
 
 
-## 📊 GitHub Upload Stats
+## 📊 Upload Dashboard
 
-| Difficulty | Count |
-|------------|------:|
-| 🟢 Easy | 6 |
-| 🟡 Medium | 3 |
-| 🔴 Hard | 2 |
-| **Total Uploaded** | **11** |
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-_Last Updated Automatically_
+🚀 **Total Uploaded:** **11**
+
+🟢 Easy
+
+`███████████░░░░░░░░░` **6**
+
+🟡 Medium
+
+`█████░░░░░░░░░░░░░░░` **3**
+
+🔴 Hard
+
+`████░░░░░░░░░░░░░░░░` **2**
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📌 **Latest Upload**
+
+✔ N/A
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🤖 Auto Synced using **LeetHub v2**
 
 
 <!-- STATS_END -->
