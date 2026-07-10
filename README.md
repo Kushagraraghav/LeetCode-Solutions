@@ -1,4 +1,11 @@
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+
+<!-- STATS_START -->
+
+Loading...
+
+<!-- STATS_END -->
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
@@ -106,36 +113,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
 
-<!-- STATS_START -->
 
-
-## 📊 Upload Dashboard
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-🚀 **Total Uploaded:** **12**
-
-🟢 Easy
-
-`██████████░░░░░░░░░░` **6**
-
-🟡 Medium
-
-`█████░░░░░░░░░░░░░░░` **3**
-
-🔴 Hard
-
-`█████░░░░░░░░░░░░░░░` **3**
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-📌 **Latest Upload**
-
-✔ N/A
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-🤖 Auto Synced using **LeetHub v2**
-
-
-<!-- STATS_END -->
