@@ -1,64 +1,86 @@
 const fs = require("fs");
+const { execSync } = require("child_process");
 
 // Read stats.json
 const stats = JSON.parse(fs.readFileSync("stats.json", "utf8"));
 
-const easy = stats.leetcode.easy || 0;
-const medium = stats.leetcode.medium || 0;
-const hard = stats.leetcode.hard || 0;
+const easy = stats.leetcode?.easy || 0;
+const medium = stats.leetcode?.medium || 0;
+const hard = stats.leetcode?.hard || 0;
 
 const total = easy + medium + hard;
 
-// Latest uploaded problem
+// Progress Bar Function
+function bar(value, total, color) {
+  const length = 10;
+  const filled = Math.round((value / Math.max(total, 1)) * length);
+  return color.repeat(filled) + "⬜".repeat(length - filled);
+}
+
+// Get latest uploaded folder from git
 let latest = "N/A";
 
-const hashes = stats.hashes || {};
+try {
+  const files = execSync("git diff-tree --no-commit-id --name-only -r HEAD")
+    .toString()
+    .trim()
+    .split("\n");
 
-const problems = Object.keys(hashes)
-    .filter(name => name !== "README.md")
-    .sort();
+  const folder = files.find(
+    (f) =>
+      /^\d{4}-/.test(f) || // 0001-two-sum
+      /^\d{3,5}-/.test(f)
+  );
 
-if (problems.length > 0) {
-    latest = problems[problems.length - 1]
-        .replace(/^0+\d+-/, "")
-        .replace(/-/g, " ");
-}
+  if (folder) {
+    latest = folder
+      .split("/")[0]
+      .replace(/^\d+-/, "")
+      .replace(/-/g, " ")
+      .replace(/\b\w/g, (c) => c.toUpperCase());
+  }
+} catch (e) {}
 
-function progressBar(value, totalWidth = 20) {
-    const filled = Math.round((value / Math.max(total, 1)) * totalWidth);
-    return "█".repeat(filled) + "░".repeat(totalWidth - filled);
-}
+// Last Commit Date
+let lastDate = "";
 
+try {
+  lastDate = execSync("git log -1 --format=%cd --date=short")
+    .toString()
+    .trim();
+} catch (e) {}
+
+// Dashboard
 const dashboard = `
-
 ## 📊 Upload Dashboard
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🚀 **Total Uploaded:** **${total}**
 
-🟢 Easy
+🟢 **Easy (${easy})**
 
-\`${progressBar(easy)}\` **${easy}**
+${bar(easy, total, "🟩")}
 
-🟡 Medium
+🟡 **Medium (${medium})**
 
-\`${progressBar(medium)}\` **${medium}**
+${bar(medium, total, "🟨")}
 
-🔴 Hard
+🔴 **Hard (${hard})**
 
-\`${progressBar(hard)}\` **${hard}**
+${bar(hard, total, "🟥")}
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
 
 📌 **Latest Upload**
 
 ✔ ${latest}
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📅 **Last Updated**
+
+${lastDate}
+
+---
 
 🤖 Auto Synced using **LeetHub v2**
-
 `;
 
 let readme = fs.readFileSync("README.md", "utf8");
@@ -69,12 +91,14 @@ const end = "<!-- STATS_END -->";
 const regex = new RegExp(`${start}[\\s\\S]*${end}`);
 
 readme = readme.replace(
-    regex,
+  regex,
 `${start}
+
 ${dashboard}
+
 ${end}`
 );
 
 fs.writeFileSync("README.md", readme);
 
-console.log("README updated!");
+console.log("README updated successfully!");
