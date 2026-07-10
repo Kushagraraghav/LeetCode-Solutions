@@ -104,8 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
 
-# 🏆 LeetCode Stats
+<!-- STATS_START -->
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Kushagra_raghav?theme=dark&font=Karma&ext=heatmap" />
-</p>
+Loading...
+
+<!-- STATS_END -->
