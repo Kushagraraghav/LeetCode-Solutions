@@ -22,13 +22,13 @@ jobs:
 
       - run: node update-readme.js
 
-      - name: Commit
+      - name: Commit README
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
 
           git add README.md
 
-          git diff --cached --quiet || git commit -m "Update README"
+          git diff --cached --quiet || git commit -m "Update README dashboard"
 
           git push
