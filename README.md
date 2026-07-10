@@ -3,6 +3,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!-- STATS_START -->
 
 
+
 ## 📊 Upload Dashboard
 
 🚀 **Total Uploaded:** **13**
@@ -21,15 +22,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 ---
 
+## 📚 Recently Solved
+
+✔ Path Existence Queries In A Graph Ii
+✔ Path Existence Queries In A Graph I
+✔ Valid Anagram
+✔ Delete Node In A Linked List
+✔ Power Of Two
+
+---
+
 ## 📈 Repository Overview
 
 📂 Repository : **LeetCode Solutions**
 
 🧩 Problems Uploaded : **13**
 
-🤖 Auto Synced using **LeetHub v2**
+📅 Last Updated : **10 Jul 2026**
 
-📅 Last Updated : **2026-07-10**
+🤖 Auto Synced using **LeetHub v2**
 
 
 
