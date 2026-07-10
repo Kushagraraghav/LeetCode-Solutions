@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0231-power-of-two](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Graph Theory
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0231-power-of-two](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
