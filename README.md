@@ -21,17 +21,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 ---
 
-📌 **Latest Upload**
+## 📈 Repository Overview
 
-✔ N/A
+📂 Repository : **LeetCode Solutions**
 
-📅 **Last Updated**
-
-2026-07-10
-
----
+🧩 Problems Uploaded : **13**
 
 🤖 Auto Synced using **LeetHub v2**
+
+📅 Last Updated : **2026-07-10**
+
 
 
 <!-- STATS_END -->
