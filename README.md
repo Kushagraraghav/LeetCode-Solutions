@@ -2,7 +2,37 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 <!-- STATS_START -->
 
-Loading...
+
+## 📊 Upload Dashboard
+
+🚀 **Total Uploaded:** **12**
+
+🟢 **Easy (6)**
+
+🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜
+
+🟡 **Medium (3)**
+
+🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜
+
+🔴 **Hard (3)**
+
+🟥🟥🟥⬜⬜⬜⬜⬜⬜⬜
+
+---
+
+📌 **Latest Upload**
+
+✔ N/A
+
+📅 **Last Updated**
+
+2026-07-10
+
+---
+
+🤖 Auto Synced using **LeetHub v2**
+
 
 <!-- STATS_END -->
 
