@@ -106,6 +106,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 <!-- STATS_START -->
 
-Loading...
+## 📊 GitHub Upload Stats
+
+| Difficulty | Count |
+|------------|------:|
+| 🟢 Easy | undefined |
+| 🟡 Medium | undefined |
+| 🔴 Hard | undefined |
+| **Total Uploaded** | **NaN** |
+
+_Last Updated Automatically_
 
 <!-- STATS_END -->
