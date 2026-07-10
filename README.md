@@ -5,19 +5,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 ## 📊 Upload Dashboard
 
-🚀 **Total Uploaded:** **12**
+🚀 **Total Uploaded:** **13**
 
 🟢 **Easy (6)**
 
 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜
 
-🟡 **Medium (3)**
+🟡 **Medium (4)**
 
 🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜
 
 🔴 **Hard (3)**
 
-🟥🟥🟥⬜⬜⬜⬜⬜⬜⬜
+🟥🟥⬜⬜⬜⬜⬜⬜⬜⬜
 
 ---
 
