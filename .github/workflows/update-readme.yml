@@ -1,0 +1,36 @@
+name: Update README Stats
+
+on:
+  push:
+    paths:
+      - stats.json
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Update README
+        run: node update-readme.js
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+
+          git add README.md
+
+          git diff --cached --quiet || git commit -m "Update README stats"
+
+          git push
