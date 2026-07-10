@@ -50,7 +50,6 @@ try {
     .trim();
 } catch (e) {}
 
-// Dashboard
 const dashboard = `
 ## 📊 Upload Dashboard
 
@@ -70,17 +69,16 @@ ${bar(hard, total, "🟥")}
 
 ---
 
-📌 **Latest Upload**
+## 📈 Repository Overview
 
-✔ ${latest}
+📂 Repository : **LeetCode Solutions**
 
-📅 **Last Updated**
-
-${lastDate}
-
----
+🧩 Problems Uploaded : **${stats.leetcode.solved}**
 
 🤖 Auto Synced using **LeetHub v2**
+
+📅 Last Updated : **${lastDate}**
+
 `;
 
 let readme = fs.readFileSync("README.md", "utf8");
