@@ -113,11 +113,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-🚀 **Total Uploaded:** **11**
+🚀 **Total Uploaded:** **12**
 
 🟢 Easy
 
-`███████████░░░░░░░░░` **6**
+`██████████░░░░░░░░░░` **6**
 
 🟡 Medium
 
@@ -125,7 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 🔴 Hard
 
-`████░░░░░░░░░░░░░░░░` **2**
+`█████░░░░░░░░░░░░░░░` **3**
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
