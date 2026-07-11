@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Stack
 |  |
@@ -157,6 +159,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0062-unique-paths) |
+## Depth-First Search
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
 
 
