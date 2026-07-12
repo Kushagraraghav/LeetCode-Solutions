@@ -6,15 +6,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 ## 📊 Upload Dashboard
 
-🚀 **Total Uploaded:** **14**
+🚀 **Total Uploaded:** **15**
 
-🟢 **Easy (6)**
+🟢 **Easy (7)**
 
-🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜
+🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜
 
 🟡 **Medium (5)**
 
-🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜
+🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜
 
 🔴 **Hard (3)**
 
@@ -27,8 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ✔ Path Existence Queries In A Graph Ii
 ✔ Path Existence Queries In A Graph I
 ✔ Count The Number Of Complete Components
+✔ Rank Transform Of An Array
 ✔ Valid Anagram
-✔ Delete Node In A Linked List
 
 ---
 
@@ -36,9 +36,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 📂 Repository : **LeetCode Solutions**
 
-🧩 Problems Uploaded : **14**
+🧩 Problems Uploaded : **15**
 
-📅 Last Updated : **11 Jul 2026**
+📅 Last Updated : **12 Jul 2026**
 
 🤖 Auto Synced using **LeetHub v2**
 
