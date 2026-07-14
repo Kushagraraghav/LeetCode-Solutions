@@ -6,7 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 ## 📊 Upload Dashboard
 
-🚀 **Total Uploaded:** **19**
+🚀 **Total Uploaded:** **20**
 
 🟢 **Easy (8)**
 
@@ -16,7 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜
 
-🔴 **Hard (3)**
+🔴 **Hard (4)**
 
 🟥🟥⬜⬜⬜⬜⬜⬜⬜⬜
 
@@ -26,9 +26,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 ✔ Path Existence Queries In A Graph Ii
 ✔ Path Existence Queries In A Graph I
+✔ Find The Number Of Subsequences With Equal Gcd
 ✔ Count The Number Of Complete Components
 ✔ Rank Transform Of An Array
-✔ Sequential Digits
 
 ---
 
@@ -36,9 +36,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 📂 Repository : **LeetCode Solutions**
 
-🧩 Problems Uploaded : **19**
+🧩 Problems Uploaded : **20**
 
-📅 Last Updated : **13 Jul 2026**
+📅 Last Updated : **14 Jul 2026**
 
 🤖 Auto Synced using **LeetHub v2**
 
