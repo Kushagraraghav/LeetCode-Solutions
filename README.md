@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
