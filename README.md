@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1331-rank-transform-of-an-array](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [1331-rank-transform-of-an-array](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
 |  |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Math
 |  |
 | ------- |
@@ -164,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -185,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0062-unique-paths) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -200,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -211,6 +218,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
 
 
