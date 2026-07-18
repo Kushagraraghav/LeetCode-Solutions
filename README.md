@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
+| [0038-count-and-say](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0038-count-and-say) |
 | [0168-excel-sheet-column-title](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
