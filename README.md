@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [2685-count-the-number-of-complete-components](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -292,10 +293,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Binary Tree
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 <!---LeetCode Topics End-->
 
 
