@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0126-word-ladder-ii](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [1331-rank-transform-of-an-array](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0168-excel-sheet-column-title](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [2685-count-the-number-of-complete-components](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Enumeration
 |  |
