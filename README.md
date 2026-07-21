@@ -6,13 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 ## 📊 Upload Dashboard
 
-🚀 **Total Uploaded:** **40**
+🚀 **Total Uploaded:** **42**
 
-🟢 **Easy (11)**
+🟢 **Easy (12)**
 
 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜
 
-🟡 **Medium (21)**
+🟡 **Medium (22)**
 
 🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜
 
@@ -28,7 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ✔ Gcd Of Odd And Even Sums
 ✔ Path Existence Queries In A Graph Ii
 ✔ Path Existence Queries In A Graph I
-✔ Find The Number Of Subsequences With Equal Gcd
+✔ Maximize Active Section With Trade I
 
 ---
 
@@ -36,9 +36,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 📂 Repository : **LeetCode Solutions**
 
-🧩 Problems Uploaded : **40**
+🧩 Problems Uploaded : **42**
 
-📅 Last Updated : **19 Jul 2026**
+📅 Last Updated : **21 Jul 2026**
 
 🤖 Auto Synced using **LeetHub v2**
 
