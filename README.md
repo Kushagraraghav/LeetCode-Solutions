@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0086-partition-list) |
+| [0203-remove-linked-list-elements](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 ## String
 |  |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0060-permutation-sequence](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
+| [0203-remove-linked-list-elements](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0231-power-of-two) |
 ## Memoization
 |  |
