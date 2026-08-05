@@ -6,13 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 ## 📊 Upload Dashboard
 
-🚀 **Total Uploaded:** **92**
+🚀 **Total Uploaded:** **93**
 
 🟢 **Easy (27)**
 
 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜
 
-🟡 **Medium (47)**
+🟡 **Medium (48)**
 
 🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜
 
@@ -36,9 +36,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 📂 Repository : **LeetCode Solutions**
 
-🧩 Problems Uploaded : **92**
+🧩 Problems Uploaded : **93**
 
-📅 Last Updated : **04 Aug 2026**
+📅 Last Updated : **05 Aug 2026**
 
 🤖 Auto Synced using **LeetHub v2**
 
