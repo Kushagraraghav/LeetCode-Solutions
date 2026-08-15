@@ -6,13 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 ## 📊 Upload Dashboard
 
-🚀 **Total Uploaded:** **102**
+🚀 **Total Uploaded:** **103**
 
 🟢 **Easy (30)**
 
 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜
 
-🟡 **Medium (51)**
+🟡 **Medium (52)**
 
 🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜
 
@@ -26,9 +26,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 ✔ Sum Of Gcd Of Formed Pairs
 ✔ Find Missing Elements
+✔ Longest Subsequence With Non Zero Bitwise Xor
 ✔ Gcd Of Odd And Even Sums
 ✔ Maximum Product Of Two Digits
-✔ Path Existence Queries In A Graph Ii
 
 ---
 
@@ -36,9 +36,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 📂 Repository : **LeetCode Solutions**
 
-🧩 Problems Uploaded : **102**
+🧩 Problems Uploaded : **103**
 
-📅 Last Updated : **14 Aug 2026**
+📅 Last Updated : **15 Aug 2026**
 
 🤖 Auto Synced using **LeetHub v2**
 
