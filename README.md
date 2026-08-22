@@ -6,9 +6,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 ## 📊 Upload Dashboard
 
-🚀 **Total Uploaded:** **108**
+🚀 **Total Uploaded:** **109**
 
-🟢 **Easy (32)**
+🟢 **Easy (33)**
 
 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜
 
@@ -28,7 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ✔ Find Missing Elements
 ✔ Longest Subsequence With Non Zero Bitwise Xor
 ✔ Gcd Of Odd And Even Sums
-✔ Maximum Product Of Two Digits
+✔ Check Divisibility By Digit Sum And Product
 
 ---
 
@@ -36,9 +36,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 📂 Repository : **LeetCode Solutions**
 
-🧩 Problems Uploaded : **108**
+🧩 Problems Uploaded : **109**
 
-📅 Last Updated : **21 Aug 2026**
+📅 Last Updated : **22 Aug 2026**
 
 🤖 Auto Synced using **LeetHub v2**
 
