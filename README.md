@@ -6,9 +6,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 ## 📊 Upload Dashboard
 
-🚀 **Total Uploaded:** **111**
+🚀 **Total Uploaded:** **112**
 
-🟢 **Easy (33)**
+🟢 **Easy (34)**
 
 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜
 
@@ -26,9 +26,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 ✔ Sum Of Gcd Of Formed Pairs
 ✔ Find Missing Elements
+✔ Smallest Missing Multiple Of K
 ✔ Longest Subsequence With Non Zero Bitwise Xor
 ✔ Gcd Of Odd And Even Sums
-✔ Check Divisibility By Digit Sum And Product
 
 ---
 
@@ -36,9 +36,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 📂 Repository : **LeetCode Solutions**
 
-🧩 Problems Uploaded : **111**
+🧩 Problems Uploaded : **112**
 
-📅 Last Updated : **24 Aug 2026**
+📅 Last Updated : **25 Aug 2026**
 
 🤖 Auto Synced using **LeetHub v2**
 
