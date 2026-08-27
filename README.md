@@ -6,13 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 ## 📊 Upload Dashboard
 
-🚀 **Total Uploaded:** **113**
+🚀 **Total Uploaded:** **114**
 
 🟢 **Easy (34)**
 
 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜
 
-🟡 **Medium (55)**
+🟡 **Medium (56)**
 
 🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜
 
@@ -26,9 +26,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 ✔ Sum Of Gcd Of Formed Pairs
 ✔ Find Missing Elements
+✔ Lexicographically Smallest Permutation Greater Than Target
 ✔ Smallest Missing Multiple Of K
 ✔ Longest Subsequence With Non Zero Bitwise Xor
-✔ Gcd Of Odd And Even Sums
 
 ---
 
@@ -36,9 +36,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 📂 Repository : **LeetCode Solutions**
 
-🧩 Problems Uploaded : **113**
+🧩 Problems Uploaded : **114**
 
-📅 Last Updated : **26 Aug 2026**
+📅 Last Updated : **27 Aug 2026**
 
 🤖 Auto Synced using **LeetHub v2**
 
