@@ -6,7 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 ## 📊 Upload Dashboard
 
-🚀 **Total Uploaded:** **114**
+🚀 **Total Uploaded:** **115**
 
 🟢 **Easy (34)**
 
@@ -16,7 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜
 
-🔴 **Hard (24)**
+🔴 **Hard (25)**
 
 🟥🟥⬜⬜⬜⬜⬜⬜⬜⬜
 
@@ -25,10 +25,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## 📚 Recently Solved
 
 ✔ Sum Of Gcd Of Formed Pairs
+✔ Lexicographically Smallest Palindromic Permutation Greater Than Target
 ✔ Find Missing Elements
 ✔ Lexicographically Smallest Permutation Greater Than Target
 ✔ Smallest Missing Multiple Of K
-✔ Longest Subsequence With Non Zero Bitwise Xor
 
 ---
 
@@ -36,9 +36,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 📂 Repository : **LeetCode Solutions**
 
-🧩 Problems Uploaded : **114**
+🧩 Problems Uploaded : **115**
 
-📅 Last Updated : **27 Aug 2026**
+📅 Last Updated : **28 Aug 2026**
 
 🤖 Auto Synced using **LeetHub v2**
 
