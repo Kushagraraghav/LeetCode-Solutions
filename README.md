@@ -6,13 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 ## 📊 Upload Dashboard
 
-🚀 **Total Uploaded:** **120**
+🚀 **Total Uploaded:** **121**
 
 🟢 **Easy (35)**
 
 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜
 
-🟡 **Medium (60)**
+🟡 **Medium (61)**
 
 🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜
 
@@ -24,11 +24,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 ## 📚 Recently Solved
 
+✔ Construct Uniform Parity Array Ii
 ✔ Construct Uniform Parity Array I
 ✔ Sum Of Gcd Of Formed Pairs
 ✔ Lexicographically Smallest Palindromic Permutation Greater Than Target
 ✔ Find Missing Elements
-✔ Lexicographically Smallest Permutation Greater Than Target
 
 ---
 
@@ -36,9 +36,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 📂 Repository : **LeetCode Solutions**
 
-🧩 Problems Uploaded : **120**
+🧩 Problems Uploaded : **121**
 
-📅 Last Updated : **02 Sept 2026**
+📅 Last Updated : **03 Sept 2026**
 
 🤖 Auto Synced using **LeetHub v2**
 
