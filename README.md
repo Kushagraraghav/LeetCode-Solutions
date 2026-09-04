@@ -6,9 +6,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 ## 📊 Upload Dashboard
 
-🚀 **Total Uploaded:** **121**
+🚀 **Total Uploaded:** **122**
 
-🟢 **Easy (35)**
+🟢 **Easy (36)**
 
 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜
 
@@ -24,11 +24,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 ## 📚 Recently Solved
 
+✔ Smallest Stable Index I
 ✔ Construct Uniform Parity Array Ii
 ✔ Construct Uniform Parity Array I
 ✔ Sum Of Gcd Of Formed Pairs
 ✔ Lexicographically Smallest Palindromic Permutation Greater Than Target
-✔ Find Missing Elements
 
 ---
 
@@ -36,9 +36,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 📂 Repository : **LeetCode Solutions**
 
-🧩 Problems Uploaded : **121**
+🧩 Problems Uploaded : **122**
 
-📅 Last Updated : **03 Sept 2026**
+📅 Last Updated : **04 Sept 2026**
 
 🤖 Auto Synced using **LeetHub v2**
 
