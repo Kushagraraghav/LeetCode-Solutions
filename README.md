@@ -6,13 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 ## 📊 Upload Dashboard
 
-🚀 **Total Uploaded:** **122**
+🚀 **Total Uploaded:** **123**
 
 🟢 **Easy (36)**
 
 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜
 
-🟡 **Medium (61)**
+🟡 **Medium (62)**
 
 🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜
 
@@ -24,11 +24,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 ## 📚 Recently Solved
 
+✔ Smallest Stable Index Ii
 ✔ Smallest Stable Index I
 ✔ Construct Uniform Parity Array Ii
 ✔ Construct Uniform Parity Array I
 ✔ Sum Of Gcd Of Formed Pairs
-✔ Lexicographically Smallest Palindromic Permutation Greater Than Target
 
 ---
 
@@ -36,9 +36,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 📂 Repository : **LeetCode Solutions**
 
-🧩 Problems Uploaded : **122**
+🧩 Problems Uploaded : **123**
 
-📅 Last Updated : **04 Sept 2026**
+📅 Last Updated : **05 Sept 2026**
 
 🤖 Auto Synced using **LeetHub v2**
 
