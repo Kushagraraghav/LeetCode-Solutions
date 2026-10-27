@@ -6,9 +6,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 ## 📊 Upload Dashboard
 
-🚀 **Total Uploaded:** **171**
+🚀 **Total Uploaded:** **172**
 
-🟢 **Easy (47)**
+🟢 **Easy (48)**
 
 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜
 
@@ -24,11 +24,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 ## 📚 Recently Solved
 
+✔ Create Grid With Exactly One Path
 ✔ Minimum Operations To Sort A Permutation
 ✔ Smallest Stable Index Ii
 ✔ Smallest Stable Index I
 ✔ Sum Of Sortable Integers
-✔ Construct Uniform Parity Array Ii
 
 ---
 
@@ -36,9 +36,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 📂 Repository : **LeetCode Solutions**
 
-🧩 Problems Uploaded : **171**
+🧩 Problems Uploaded : **172**
 
-📅 Last Updated : **26 Oct 2026**
+📅 Last Updated : **27 Oct 2026**
 
 🤖 Auto Synced using **LeetHub v2**
 
