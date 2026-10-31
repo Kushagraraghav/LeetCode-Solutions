@@ -6,13 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 ## 📊 Upload Dashboard
 
-🚀 **Total Uploaded:** **174**
+🚀 **Total Uploaded:** **176**
 
 🟢 **Easy (48)**
 
 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜
 
-🟡 **Medium (86)**
+🟡 **Medium (88)**
 
 🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜
 
@@ -24,11 +24,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 ## 📚 Recently Solved
 
+✔ Shortest Path With At Most K Consecutive Identical Characters
 ✔ Create Grid With Exactly One Path
 ✔ Minimum Operations To Sort A Permutation
 ✔ Smallest Stable Index Ii
 ✔ Smallest Stable Index I
-✔ Sum Of Sortable Integers
 
 ---
 
@@ -36,9 +36,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 📂 Repository : **LeetCode Solutions**
 
-🧩 Problems Uploaded : **174**
+🧩 Problems Uploaded : **176**
 
-📅 Last Updated : **29 Oct 2026**
+📅 Last Updated : **31 Oct 2026**
 
 🤖 Auto Synced using **LeetHub v2**
 
