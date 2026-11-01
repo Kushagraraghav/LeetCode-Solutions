@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0746-min-cost-climbing-stairs](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
