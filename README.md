@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1331-rank-transform-of-an-array](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2685-count-the-number-of-complete-components](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [1267-count-servers-that-communicate](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -573,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
+| [1267-count-servers-that-communicate](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [2685-count-the-number-of-complete-components](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -590,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
+| [1267-count-servers-that-communicate](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [2685-count-the-number-of-complete-components](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -658,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0835-image-overlap](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
