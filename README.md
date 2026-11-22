@@ -454,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/1927-sum-game) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2409-count-days-spent-together](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kushagraraghav/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
