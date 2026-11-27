@@ -6,13 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 ## 📊 Upload Dashboard
 
-🚀 **Total Uploaded:** **199**
+🚀 **Total Uploaded:** **200**
 
 🟢 **Easy (54)**
 
 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜
 
-🟡 **Medium (100)**
+🟡 **Medium (101)**
 
 🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜
 
@@ -26,9 +26,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 ✔ Shortest Path With At Most K Consecutive Identical Characters
 ✔ Create Grid With Exactly One Path
+✔ Maximum Number Of Items From Sale I
 ✔ Minimum Operations To Sort A Permutation
 ✔ Smallest Unique Subarray
-✔ Smallest Stable Index Ii
 
 ---
 
@@ -36,9 +36,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 📂 Repository : **LeetCode Solutions**
 
-🧩 Problems Uploaded : **199**
+🧩 Problems Uploaded : **200**
 
-📅 Last Updated : **26 Nov 2026**
+📅 Last Updated : **27 Nov 2026**
 
 🤖 Auto Synced using **LeetHub v2**
 
